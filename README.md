@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 . 👯 I’m looking to collaborate on practice session in coding.
 
 . 🤔 I’m looking for help with Laptop 💻.
-. 💬 Ask me about ..?
 
 
 📫 How to reach me: raghavgupta805288@gmail.com
@@ -31,4 +30,10 @@ My skills:
 . Strong communication 
 . Frontend developer.
 
+📿 Certificates 
+. @CCC
+. @Al workshop
+. @Wevdeplopment workshop 
+.  @Machine learning workshops 
+.   @Data science workshop.
 
