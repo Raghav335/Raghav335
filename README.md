@@ -1,8 +1,4 @@
-## Hi there 
-👋https://www.linkedin.com/posts/raghav-gupta-8a9152328_c-programming-language-lesson01-activity-7332806246351126531-vR23?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFKac4EBXFX7fRVbWjMT8Gh6eHv6CnitU30&utm_campaign=copy_link
-
-<!--
-**Raghav335/Raghav335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Raghav Gupta from BCA student 
 
 Here are some ideas to get you started:
 
@@ -14,4 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+My skills: 
+
+. C language codes 
+. Data structure 
+. Database with quires.
+. Strong communication 
+. Frontend developer.
