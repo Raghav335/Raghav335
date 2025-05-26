@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me: raghavgupta805288@gmail.com
-          gitHub:    
+          gitHub:   https://github.com/Raghav335
+ 
 . 😄 Pronouns: He/ him 
-.⚡ Fun fact: 
 
 
 My skills: 
@@ -29,5 +29,6 @@ My skills:
 . Data structure 
 . Database with quires.
 . Strong communication 
-. Frontend developer
+. Frontend developer.
+
 
