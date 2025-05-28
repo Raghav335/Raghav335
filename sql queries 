@@ -1,0 +1,96 @@
+Purpose:
+
+This SQL code does three main things:
+
+1. Creates a table named EMPLOYEE.
+
+
+2. Inserts some data into the table.
+
+
+3. Retrieves (fetches) specific data from the table using a condition.
+
+
+
+
+---
+
+🧱 1. Creating the Table
+
+CREATE TABLE EMPLOYEE (
+    empId INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    dept TEXT NOT NULL
+);
+
+✅ What this does:
+
+Creates a table called EMPLOYEE.
+
+It has three columns:
+
+empId: An integer column that serves as the primary key (unique ID for each employee).
+
+name: A text column for the employee's name. NOT NULL means this field must have a value.
+
+dept: A text column for the department name. Also cannot be null.
+
+
+
+
+---
+
+✍️ 2. Inserting Data
+
+INSERT INTO EMPLOYEE VALUES (0001, 'Clark', 'Sales');
+INSERT INTO EMPLOYEE VALUES (0002, 'Dave', 'Accounting');
+INSERT INTO EMPLOYEE VALUES (0003, 'Ava', 'Sales');
+
+✅ What this does:
+
+It adds three employees to the table:
+
+empId	name	dept
+
+0001	Clark	Sales
+0002	Dave	Accounting
+0003	Ava	Sales
+
+
+
+---
+
+🔍 3. Fetching Data
+
+SELECT * FROM EMPLOYEE WHERE dept = 'Sales';
+
+✅ What this does:
+
+This is a SELECT query.
+
+It retrieves all (*) columns from the EMPLOYEE table where the department is 'Sales'.
+
+
+📤 Output:
+
+The query returns:
+
+empId	name	dept
+
+1	Clark	Sales
+3	Ava	Sales
+
+
+Dave is not included because his department is "Accounting", not "Sales".
+
+
+
+---
+
+✅ Summary
+
+Part	Action
+
+CREATE TABLE	Defines the structure of the table
+INSERT INTO	Adds records to the table
+SELECT ... WHERE	Retrieves filtered records from the table
