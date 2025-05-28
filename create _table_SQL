@@ -1,0 +1,6 @@
+-- Creating a students table
+CREATE TABLE students (
+  Sr_no INT PRIMARY KEY,
+  name VARCHAR(100),
+  Course varchar(100),
+);
