@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: raghavgupta805288@gmail.com
           gitHub:   https://github.com/Raghav335
+
+linkedin 💻:
+https://www.linkedin.com/in/raghav-gupta-8a9152328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  
 . 😄 Pronouns: He/ him 
 
