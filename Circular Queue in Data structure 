@@ -1,1 +1,111 @@
-https://www.linkedin.com/posts/raghav-gupta-8a9152328_include-define-activity-7333753833057144832--c1A?utm_source=share&utm_medium=member_android&rcm=ACoAAFKac4EBXFX7fRVbWjMT8Gh6eHv6CnitU30
+# A simple implementation of a circular queue in C using an array:
+
+✅ Circular Queue in C (Using Array)
+
+#include <stdio.h>
+#define SIZE 5
+
+int queue[SIZE];
+int front = -1, rear = -1;
+
+// Function to check if the queue is full
+int isFull() {
+    return (front == (rear + 1) % SIZE);
+}
+
+// Function to check if the queue is empty
+int isEmpty() {
+    return (front == -1);
+}
+
+// Function to insert an element into the circular queue
+void enqueue(int value) {
+    if (isFull()) {
+        printf("Queue is full!\n");
+        return;
+    }
+
+    if (isEmpty()) {
+        front = rear = 0;
+    } else {
+        rear = (rear + 1) % SIZE;
+    }
+
+    queue[rear] = value;
+    printf("Inserted %d\n", value);
+}
+
+// Function to delete an element from the circular queue
+void dequeue() {
+    if (isEmpty()) {
+        printf("Queue is empty!\n");
+        return;
+    }
+
+    int deletedValue = queue[front];
+
+    if (front == rear) {
+        front = rear = -1;  // Queue becomes empty
+    } else {
+        front = (front + 1) % SIZE;
+    }
+
+    printf("Deleted %d\n", deletedValue);
+}
+
+// Function to display the queue
+void display() {
+    if (isEmpty()) {
+        printf("Queue is empty!\n");
+        return;
+    }
+
+    printf("Queue: ");
+    int i = front;
+    while (1) {
+        printf("%d ", queue[i]);
+        if (i == rear) break;
+        i = (i + 1) % SIZE;
+    }
+    printf("\n");
+}
+
+int main() {
+    enqueue(10);
+    enqueue(20);
+    enqueue(30);
+    enqueue(40);
+    enqueue(50); // Should show queue is full
+
+    display();
+
+    dequeue();
+    dequeue();
+
+    display();
+
+    enqueue(60);
+    enqueue(70);
+
+    display();
+
+    return 0;
+}
+
+
+
+
+📝 Explanation:
+
+front points to the front of the queue.
+
+rear points to the last element.
+
+The queue wraps around using modulus operator % SIZE.
+
+Full condition: (front == (rear + 1) % SIZE)
+
+Empty condition: (front == -1)
+
+  
+practice prove to https://onecompiler.com/c/43k686ha4
