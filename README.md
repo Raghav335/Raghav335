@@ -42,6 +42,7 @@ My skills:
 
 💻Repo for uses:
 
- https://github.com/Raghav335/Paython-language-
-https://github.com/Raghav335/Happy-birthday
-https://github.com/Raghav335/TikTok-Tap-Game
+ 1.https://github.com/Raghav335/Paython-language-
+2.https://github.com/Raghav335/Happy-birthday
+3.https://github.com/Raghav335/TikTok-Tap-Game
+4.https://github.com/Raghav335/Scientific-Calculator
