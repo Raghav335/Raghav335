@@ -32,13 +32,4 @@ My skills:
 . Wevdeplopment workshop 
 .  Machine learning workshops 
 . Data science workshop.
-. Tally Certificate.
-
-💻Repo for uses:
-
- 1.https://github.com/Raghav335/Paython-language-
-2.https://github.com/Raghav335/Happy-birthday
-3.https://github.com/Raghav335/TikTok-Tap-Game
-4.https://github.com/Raghav335/Scientific-Calculator
-5.https://github.com/Raghav335/Simple-To-Do-task-
-6.https://github.com/Raghav335/Memory-card-game-
+. Tally Certificate
