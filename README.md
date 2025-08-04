@@ -1,4 +1,4 @@
-9Hello everyone , welcome to my github aacount
+Hello everyone , welcome to my github aacount
 I am Raghav Gupta from BCA student 
 
 .🌱 I’m currently learning in c language .
