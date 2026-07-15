@@ -1,256 +1,295 @@
+
 <div align="center">
 
 # Hi 👋, I'm Raghav Gupta
 
-### 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 🎓 BCA Final Year Student
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" />
+### 💻 Full Stack Developer • MERN Stack Enthusiast • BCA Final Year Student
 
 <p>
-<img src=""/>
-<img src="https://img.shields.io/github/followers/Raghav335?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Raghav335?style=for-the-badge&logo=github"/>
+Building scalable, responsive, and user-centric web applications with modern technologies.
+</p>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p>
+<a href="https://github.com/Raghav335">
+<img src="https://img.shields.io/github/followers/Raghav335?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Raghav335&style=for-the-badge&label=Profile+Views"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Raghav Gupta**, a passionate **Full Stack Developer** and **BCA Final Year Student** from India 🇮🇳.
+I'm **Raghav Gupta**, a passionate **Full Stack Developer** and **BCA Final Year Student** from India.
 
-I enjoy designing and developing modern, scalable, and user-centric web applications using the **MERN Stack**. I believe in writing clean, maintainable code and continuously improving my skills by building real-world projects.
+I enjoy building modern, scalable, and responsive web applications that solve real-world problems. My focus is on creating clean user interfaces, efficient backend systems, and continuously improving my software engineering skills through practical projects.
 
-- 🚀 Full Stack Web Developer
-- 🎓 BCA Final Year Student
-- 🌱 Currently learning **Advanced MERN, Python, Java & DSA**
-- 💡 Interested in Software Engineering & Open Source
-- 🤝 Open to Internship & Collaboration Opportunities
-- ⚡ Building Projects that solve real-world problems
+### 🚀 What I'm Doing
 
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,java,c" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
-</p>
-
----
-
-## 🌟 What I'm Working On
-
-- 🚀 Building Full Stack MERN Applications
-- 📊 Creating Responsive Dashboards
-- 💬 Developing Real-Time Applications
-- 📚 Strengthening DSA & Backend Development
-- 🌍 Exploring Cloud & Deployment
+- 💻 Building Full Stack MERN Applications
+- 🌱 Learning Advanced MERN, Python, Java & DSA
+- ⚡ Exploring Backend Architecture & REST APIs
+- 🤝 Open to Internship and Collaboration Opportunities
+- 🎯 Goal: Become a Software Engineer and contribute to impactful products
 
 ---
 
 ## 💡 Developer Philosophy
 
-> **"I don't just build websites—I build digital experiences that are fast, scalable, and meaningful."**
+> **"Every project is an opportunity to learn, every bug is a lesson, and every line of code is a step toward becoming a better engineer."**
+
+---
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java,c" />
+</p>
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+## ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+</p>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Currently Exploring
+
+```text
+✓ Advanced MERN Stack
+✓ Backend Development
+✓ REST APIs
+✓ Data Structures & Algorithms
+✓ Software Engineering Principles
+✓ Clean Architecture
+```
+
+---
+
+# 🎯 Core Skills
 
 <table>
 <tr>
 <td width="50%">
 
-### 💰 Expense Tracker with Budget Insights
+### Frontend
 
-A modern expense management application that helps users track income, expenses, budgets, and financial insights with interactive charts.
-
-**✨ Features**
-
-- Budget Management
-- Expense Analytics
-- Charts & Reports
-- Responsive UI
-- Firebase Integration
-
-**🛠 Tech Stack**
-
-React • Firebase • Chart.js • CSS
+- Responsive Web Design
+- Modern UI Development
+- Component-Based Architecture
+- API Integration
+- State Management
+- Performance Optimization
 
 </td>
 
 <td width="50%">
 
-### 📊 Social Media Dashboard
+### Backend
 
-A responsive analytics dashboard with reusable UI components and modern user experience.
-
-**✨ Features**
-
-- Dashboard Analytics
-- Responsive Design
-- Reusable Components
-- Modern UI
-
-**🛠 Tech Stack**
-
-React • Tailwind CSS • REST API
+- REST API Development
+- Authentication & Authorization
+- CRUD Operations
+- Database Design
+- Firebase Integration
+- Server-side Development
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-### 💬 Real-Time Chat Application
-
-A scalable real-time messaging application built using modern web technologies.
-
-**✨ Features**
-
-- Real-time Messaging
-- Multiple Users
-- Responsive Design
-
-**🛠 Tech Stack**
-
-React • Node.js • Express.js • MongoDB • Socket.io
-
-</td>
-
-<td>
-
-### 🌐 Personal Portfolio
-
-A clean and responsive portfolio showcasing my projects, skills, achievements, and development journey.
-
-**🛠 Tech Stack**
-
-React • HTML • CSS • JavaScript
-
-</td>
-</tr>
-
 </table>
 
 ---
 
-# 🏆 Experience & Achievements
+# ⚡ Development Workflow
 
-🏅 AI Hack Matrix Hackathon Finalist
+```text
+💡 Idea
+   │
+   ▼
+🎨 UI/UX Design
+   │
+   ▼
+⚛️ Frontend Development
+   │
+   ▼
+⚙️ Backend Development
+   │
+   ▼
+🗄️ Database Integration
+   │
+   ▼
+🧪 Testing & Debugging
+   │
+   ▼
+🚀 Deployment (Vercel)
+```
 
-👨‍💼 Team Leader — CarePaws
+---
+# 🚀 Featured Projects
 
-💻 Developed Multiple Full Stack Projects
+<div align="center">
 
-🌱 Passionate Open Source Learner
+| Project | Description | Tech Stack | Live Demo | Source Code |
+|:--------:|-------------|------------|:---------:|:-----------:|
+| 🎓 **Academic Performance Hub** | A modern academic management platform that streamlines student performance tracking, academic records, and analytics through a responsive and intuitive interface. | React.js • JavaScript • Tailwind CSS • Firebase | <a href="https://academic-performance-hub-three.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/></a> | <a href="https://github.com/Raghav335/academic-performance-hub"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a> |
+| 💰 **Expense Tracker with Budget Insights** | A personal finance application for tracking income, expenses, budgets, and financial insights with interactive charts and analytics. | React.js • Firebase • Chart.js | <a href="https://expense-tracker-with-budget-insight-green.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/></a> | <a href="https://github.com/Raghav335/Expense-Tracker-with-Budget-Insights"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a> |
+| 📊 **Social Media Dashboard** | A responsive dashboard with reusable UI components, analytics, and a clean modern interface. | React.js • Tailwind CSS | <a href="https://social-media-dashboard-ukue.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/></a> | <a href="https://github.com/Raghav335/social-media-dashboard-"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a> |
+| 💬 **Real-Time Chat Application** | A real-time messaging application with instant communication using Socket.IO and the MERN stack. | React.js • Node.js • Express.js • MongoDB • Socket.IO | <a href="https://realtime-chat-app-eight-wheat.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/></a> | <a href="https://github.com/Raghav335/Realtime-chat-app"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a> |
 
-🎓 BCA Final Year Student
+</div>
+
+---
+
+# 🌟 Project Highlights
+
+### 🎓 Academic Performance Hub
+- 📊 Academic Performance Analytics
+- 👨‍🎓 Student Record Management
+- 📱 Fully Responsive Interface
+- ⚡ Fast & User-Friendly Experience
+
+### 💰 Expense Tracker
+- 💵 Income & Expense Tracking
+- 📈 Budget Insights
+- 📊 Interactive Charts
+- 📄 Report Generation
+
+### 📊 Social Media Dashboard
+- 📈 Analytics Dashboard
+- 🎨 Modern UI
+- 📱 Mobile Responsive
+- ⚡ Reusable Components
+
+### 💬 Real-Time Chat Application
+- 💬 Instant Messaging
+- 🌐 Real-Time Communication
+- 🔒 Scalable MERN Architecture
+
+---
+
+# 📈 Development Focus
+
+```text
+✔ Full Stack Web Development
+✔ Modern React Applications
+✔ Backend API Development
+✔ Database Design
+✔ Software Engineering
+✔ Problem Solving
+✔ Continuous Learning
+```
+
+---
+
+## 💬 What I Believe
+
+> **"Technology is not just about writing code—it's about creating meaningful solutions that improve people's lives."**
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghav335&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav335&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav335&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav335&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 **AI Hack Matrix Hackathon Finalist**
+
+👨‍💼 **Team Leader — CarePaws**
+
+💻 Built **Full Stack MERN Applications**
+
+📱 Developed **Responsive Web Applications**
+
+🚀 Passionate about **Software Development & Open Source**
 
 ---
 
 # 📜 Certifications
 
-✔ CCC
-
-✔ Artificial Intelligence Workshop
-
-✔ Web Development Workshop
-
-✔ Machine Learning Workshop
-
-✔ Data Science Workshop
-
-✔ Tally ERP
+- 🎓 CCC (Course on Computer Concepts)
+- 🤖 Artificial Intelligence Workshop
+- 🌐 Web Development Workshop
+- 🧠 Machine Learning Workshop
+- 📊 Data Science Workshop
+- 💼 Tally ERP Certificate
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 2026 Goals
 
-<p align="center">
+- 🚀 Become a Professional Software Engineer
+- 🌍 Contribute to Open Source Projects
+- 📚 Master Data Structures & Algorithms
+- ☁️ Learn Cloud & DevOps
+- 💼 Secure a Full-Time Software Developer Role
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghav335&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav335&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav335&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raghav335&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav335&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-🚀 Building Production-Ready MERN Applications
-
-📚 Mastering Data Structures & Algorithms
-
-⚙️ Learning System Design & Backend Architecture
-
-☁️ Exploring Cloud Technologies
-
-🤝 Contributing to Open Source Projects
-
----
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/Raghav335">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/raghav-gupta-8a9152328">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -264,38 +303,7 @@ React • HTML • CSS • JavaScript
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Raghav335">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Currently Learning
-
-- 🚀 Advanced MERN Stack
-- ☕ Java Programming
-- 🐍 Python
-- 📚 Data Structures & Algorithms
-- ☁️ Cloud Fundamentals
-- ⚙️ Backend Architecture
-
----
-
-# 🎯 2026 Goals
-
-✅ Become a Skilled Software Engineer
-
-✅ Build Scalable Full Stack Applications
-
-✅ Contribute to Open Source
-
-✅ Master Backend Development
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Secure a Full-Time Software Developer Role
+</div>
 
 ---
 
@@ -303,31 +311,7 @@ React • HTML • CSS • JavaScript
 
 <div align="center">
 
-> **"Code is more than syntax—it's the ability to turn ideas into solutions that make a difference."**
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Raghav335/Raghav335/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# ❤️ Thanks for Visiting
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-
-**Let's build something amazing together! 🚀**
+### *"Great software is built with curiosity, consistency, and a passion for solving real-world problems."*
 
 </div>
 
@@ -335,8 +319,15 @@ If you like my work, consider giving a ⭐ to my repositories and connecting wit
 
 <div align="center">
 
-### ⚡ "Learn • Build • Share • Repeat"
+## 💙 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+⭐ If you like my work, consider **starring my repositories** and **connecting with me**.
+
+### **Let's Build Something Amazing Together 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=120&section=footer"/>
 
 </div>
+
+
+
