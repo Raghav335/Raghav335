@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Raghav335&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src=""/>
 <img src="https://img.shields.io/github/followers/Raghav335?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/stars/Raghav335?style=for-the-badge&logo=github"/>
 </p>
